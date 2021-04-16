@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Policy brief: Learning the value of Education in the Dominican Republic"
 collection: publications
 permalink: /publications/2018-12-01-ave_policy_brief
@@ -12,4 +12,4 @@ Learning the value of Education (AVE) is a large scale policy pilot implemented 
 
 [Download paper here](www.ideice.gob.do/documentacion/informes-usepe.html-p1 88)
 
-Recommended citation: Instituto Dominicano de Evaluacin e Investigacin de la Calidad Educativa (2018). "Policy brief: Learning the value of Education in the Dominican Republic Number 10." <i> IDEICE - policy briefs </i>.
+Recommended citation: Instituto Dominicano de Evaluacin e Investigacin de la Calidad Educativa (2018). "Policy brief: Learning the value of Education in the Dominican Republic Number 10." <i> IDEICE - policy briefs </i>. -->
