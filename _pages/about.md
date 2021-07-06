@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Welcome! I am an Economist working in the intersection between research and public policy. Currently, I am the Policy and Research Manager of the [Abdul Latif Jameel Poverty Action Lab](https://www.povertyactionlab.org/LAC). In the last years, I led and collaborated with local governments from Peru, the Dominican Republic, Chile, and the United States to implement and evaluate several programs to improve families’ education investments and enhance the efficiency of education markets.
+Hi! I am a Senior Research Specialist (Pre-doc) at the [Industrial Relations Section, Princeton University](https://irs.princeton.edu/). I work with professor [Christopher Neilson](https://christopherneilson.github.io/) on research related to school choice and public policy education in Latin America. Previously, I worked as a data analyst/scientist at [ConsiliumBots](https://www.consiliumbots.com/), supporting the implementation and study of centralized school assignment systems and information interventions on school choice processes in developing countries like Chile, Perú, Ecuador, and Brazil.
 
-I recieved my BS from the [Pontificia Universidad Catolica del Peru](https://www.pucp.edu.pe/en/), I am an member of the [Latin American Public Servant Network](https://www.redservidorespublicos.org/), and a Policy partner of [ConsiliumBots](https://www.consiliumbots.com).
-
-You can find the latest version of my CV [here](https://drive.google.com/file/d/11kqoQ_C2BgoO98oVEd67LDpNWdyWOwR5/view?usp=sharing). -->
+I hold a B.S. in Economics and an M.S. in Economic Analysis from the Universidad de Chile.
+You can find the latest version of my CV [here]().
