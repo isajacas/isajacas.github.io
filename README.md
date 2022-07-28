@@ -1,6 +1,5 @@
 # <center> Welcome! 👋 </center>
-### <center> I'm Isabel M. Jacas, a chilean Economist and Data Scientist 👩‍💻🇨🇱 interested in educational policy in developing countries and how to use data to improve access to information for both families and schools. <br> 
- </center>
+I'm Isabel M. Jacas, a chilean Economist and Data Scientist 👩‍💻🇨🇱 interested in educational policy in developing countries and how to use data to improve access to information for both families and schools. <br> 
 <br>
 
 <b>Contact Information</b> <br>
