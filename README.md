@@ -4,7 +4,7 @@ I'm Isabel M. Jacas, a chilean Economist and Data Scientist 👩‍💻🇨🇱 
 
 <b>Contact Information</b> <br>
 <i> [Email ConsiliumBots](mailto:isa@consiliumbots.com) / [Email TetherEd](mailto:isa@tether.education) </i> <br>
-##### <i> [Schedule a meeting](|https://calendly.com/isajacas) </i> <br>
+##### <i> [Schedule a meeting](https://calendly.com/isajacas) </i> <br>
 
 ### Go to my [CV](https://isajacas.github.io/cv/)
 
