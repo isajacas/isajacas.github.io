@@ -1,5 +1,5 @@
 # <center> Welcome! 👋 </center>
-I'm Isabel M. Jacas, a chilean Economist and Data Scientist 👩‍💻🇨🇱 interested in educational policy in developing countries and how to use data to improve access to information for both families and schools. <br> 
+I'm Isabel M. Jacas, a chilean Economist and Data Scientist 👩‍💻🇨🇱 working at [TetherEducation](https://www.tether.education/) as Head Data Scientist. I'm interested in educational policy in developing countries and how to use data to improve access to information for both families and schools.  <br> 
 <br>
 
 <b>Contact Information</b> <br>
