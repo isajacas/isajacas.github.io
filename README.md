@@ -8,4 +8,5 @@ I'm a chilean Economist and Data Scientist 👩‍💻🇨🇱 working at [Tethe
 
 ### Go to my [CV](https://isajacas.github.io/cv/)
 
-![Profile picture Isabel Jacas](/docs/assets/profile_pic_small.jpg)
+![Profile picture Isabel Jacas]()
+<img src="/docs/assets/profile_pic_small.jpg" width="200"/>
