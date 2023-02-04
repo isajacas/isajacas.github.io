@@ -1,7 +1,7 @@
 
 # <center> Welcome! 👋 </center>
 
-I'm a chilean Economist and Data Scientist 👩‍💻🇨🇱. I'm interested in social and educational policy in developing countries. I'm currently working as a Consultant at the [Social Development Division of the Economic Commission for Latin America and the Caribbean](https://dds.cepal.org/) <br>
+I'm a chilean Economist and Data Scientist 👩‍💻🇨🇱. I'm interested in social and educational policy in developing countries. I'm currently working as a Consultant at the [Social Development Division of the United Nations Economic Commission for Latin America and the Caribbean](https://dds.cepal.org/) <br>
 <br>
 
 <b>Contact Information</b> <br>
