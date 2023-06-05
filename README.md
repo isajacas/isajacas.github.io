@@ -9,4 +9,4 @@ I'm a chilean Economist and Data Scientist 👩‍💻🇨🇱. I'm interested i
 
 ### Go to my [CV](https://isajacas.github.io/cv/)
 
-<center> <img src="/docs/assets/profile_pic.jpg" width="300"/> </center>
+<center> <img src="/docs/assets/profile_pic.png" width="300"/> </center>
